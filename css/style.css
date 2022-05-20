@@ -74,3 +74,77 @@ h1 {
       background-color: #030202; }
     .flex .flex_hijo .flex_hijo--4 {
       background-color: #030202; }
+      
+.inicio-sesion{
+  .nombre{
+    text-align: center;
+} 
+  .apellido{
+    text-align: center;
+}
+  .edad{
+  text-align: center;
+}
+.e-mail{
+text-align: center;
+}
+.password{
+text-align: center;
+}
+.m-m{
+text-align: center;
+}
+.boton{
+text-align: center;
+}
+  
+}
+#conteItemsCarrusel{
+  height: 400px;
+  width: 300px;
+ overflow: hidden;
+ align-content: center;
+ .itemCarrusel{
+  border: 1px solid black;
+  height: 100%;
+  position:relative;
+  align-items: center;
+}.tarjetaCarrusel{
+  height: 100%;
+  }
+  .flechasCarrusel{
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;}
+    #contePuntos{
+      background-color:rgb(191, 190, 190);
+      display: flex;
+      justify-content:space-between;
+      width:300px;
+      #contePuntos{
+        background-color:rgb(191, 190, 190);
+        display: flex;
+        justify-content:space-between;
+        width:300px; }
+       }
+       .imgCarrusel{
+        width: 100%;
+        height: 100%;
+        
+    }
+}  
+.i{
+  color: black;
+}
+.footer{
+  background-color: rgb(247, 219, 247);
+  border: 0.5px solid beige;
+  
+}
+
+
